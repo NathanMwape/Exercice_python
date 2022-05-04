@@ -1,0 +1,141 @@
+position = str(input("Quelle est votre position ???? "))
+if position == "a1":
+    print("le carré est noir")
+elif position == "a2":
+    print("le carré est blanc")
+elif position == "a3":
+    print("le carré est noir")
+elif position == "a4":
+    print("le carré est blanc")
+elif position == "a5":
+    print("le carré est noir")
+elif position == "a6":
+    print("le carré est blanc")
+elif position == "a7":
+    print("le carré est noir")
+elif position == "a8":
+    print("le carré est blanc")
+
+    
+elif position == "b1":
+    print("le carré est blanc")
+elif position == "b2":
+    print("le carré est noir")
+elif position == "b3":
+    print("le carré est blanc")
+elif position == "b4":
+    print("le carré est noirc")
+elif position == "b5":
+    print("le carré est blanc")
+elif position == "b6":
+    print("le carré est noir")
+elif position == "b7":
+    print("le carré est blanc")
+elif position == "b8":
+    print("le carré est noir")
+    
+elif position == "c1":
+    print("le carré est noir")
+elif position == "c2":
+    print("le carré est blanc")
+elif position == "c3":
+    print("le carré est noir")
+elif position == "c4":
+    print("le carré est blanc")
+elif position == "c5":
+    print("le carré est noir")
+elif position == "c6":
+    print("le carré est blanc")
+elif position == "c7":
+    print("le carré est noir")
+elif position == "c8":
+    print("le carré est blanc")
+    
+elif position == "d1":
+    print("le carré est blanc")
+elif position == "d2":
+    print("le carré est noir")
+elif position == "d3":
+    print("le carré est blanc")
+elif position == "d4":
+    print("le carré est noir")
+elif position == "d5":
+    print("le carré est blanc")
+elif position == "d6":
+    print("le carré est noir")
+elif position == "d7":
+    print("le carré est blanc")
+elif position == "d8":
+    print("le carré est noir")
+
+elif position == "e1":
+    print("le carré est noir")
+elif position == "e2":
+    print("le carré est blanc")
+elif position == "e3":
+    print("le carré est noir")
+elif position == "e4":
+    print("le carré est blanc")
+elif position == "e5":
+    print("le carré est noir")
+elif position == "e6":
+    print("le carré est blanc")
+elif position == "e7":
+    print("le carré est noir")
+elif position == "e8":
+    print("le carré est blanc")
+    
+elif position == "f1":
+    print("le carré est blanc")
+elif position == "f2":
+    print("le carré est noir")
+elif position == "f3":
+    print("le carré est blanc")
+elif position == "f4":
+    print("le carré est noir")
+elif position == "f5":
+    print("le carré est blanc")
+elif position == "f6":
+    print("le carré est noir")
+elif position == "f7":
+    print("le carré est blanc")
+elif position == "f8":
+    print("le carré est noir")
+    
+elif position == "g1":
+    print("le carré est noir")
+elif position == "g2":
+    print("le carré est blanc")
+elif position == "g3":
+    print("le carré est noir")
+elif position == "g4":
+    print("le carré est blanc")
+elif position == "g5":
+    print("le carré est noir")
+elif position == "g6":
+    print("le carré est blanc")
+elif position == "g7":
+    print("le carré est noir")
+elif position == "g8":
+    print("le carré est blanc")
+    
+elif position == "h1":
+    print("le carré est blanc")
+elif position == "h2":
+    print("le carré est noir")
+elif position == "h3":
+    print("le carré est blanc")
+elif position == "h4":
+    print("le carré est noir")
+elif position == "h5":
+    print("le carré est blanc")
+elif position == "h6":
+    print("le carré est noir")
+elif position == "h7":
+    print("le carré est blanc")
+elif position == "h8":
+    print("le carré est noir")
+else:
+    print("Erreur de saisie")
+
+
